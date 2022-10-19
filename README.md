@@ -27,5 +27,5 @@ This project renders an .svg image with the download count of all my Minecraft m
 
 ## Can I use this for my own projects?
 
-Yes! Fork this repository and change the `mods.json` file to your liking. 
+Yes! Fork this repository and change the `data/mods.json` file to your liking (feel free to customize other aspects or suggest changes through Issues!). 
 Please remember to keep the `LICENSE` file in your fork, to comply with the MIT license.
