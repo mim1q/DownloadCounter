@@ -5,10 +5,8 @@
 This project renders an .svg image with the download count of all my Minecraft mods:
 
 <p align="center">
-
-![Download count](https://raw.githubusercontent.com/mim1q/DownloadCounter/master/output/total.svg#gh-light-mode-only)
-![Download count](https://raw.githubusercontent.com/mim1q/DownloadCounter/master/output/total-dark.svg#gh-dark-mode-only)
-
+  <img src="https://raw.githubusercontent.com/mim1q/DownloadCounter/master/output/total.svg#gh-light-mode-only" alt="Download count"/>
+  <img src="https://raw.githubusercontent.com/mim1q/DownloadCounter/master/output/total-dark.svg#gh-dark-mode-only" alt="Download count"/>
 </p>
 
 ## Markdown Code
@@ -16,6 +14,15 @@ This project renders an .svg image with the download count of all my Minecraft m
 ```markdown
 ![Download count](https://raw.githubusercontent.com/mim1q/DownloadCounter/master/output/total.svg#gh-light-mode-only)
 ![Download count](https://raw.githubusercontent.com/mim1q/DownloadCounter/master/output/total-dark.svg#gh-dark-mode-only)
+```
+
+## HTML Code
+
+```html
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mim1q/DownloadCounter/master/output/total.svg#gh-light-mode-only" alt="Download count"/>
+  <img src="https://raw.githubusercontent.com/mim1q/DownloadCounter/master/output/total-dark.svg#gh-dark-mode-only" alt="Download count"/>
+</p>
 ```
 
 ## Can I use this for my own projects?
