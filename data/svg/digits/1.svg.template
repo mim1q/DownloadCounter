@@ -1,4 +1,4 @@
-<g class="digit" id="digit_1" transform="translate(${x}, ${y})">
+<g class="digit" id="digit_1" transform="translate(${x}, ${y}), scale(${scale})">
     <path id="digit_1_shadow"
           d="m2.1167 2.1167v1.0583h1.0583v4.2333h-1.0583v1.0583h3.175v-1.0583h-1.0583v-6.35h-1.0583v1.0583h-1.0583z"
           fill-opacity=".5" style="paint-order:stroke fill markers"/>
