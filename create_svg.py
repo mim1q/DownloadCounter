@@ -18,7 +18,8 @@ def generate_svg(total_downloads: int, dark_mode: bool) -> str:
             .replace("${content}", digits)\
             .replace("${width}", str(digit_count * DIGIT_WIDTH))\
             .replace("${height}", str(DIGIT_HEIGHT))\
-            .replace("${foreground-color}", "white" if dark_mode else "black")
+            .replace("${foreground-color}", "white" if dark_mode else "black")\
+            .replace("${shadow-alpha}", "0.5" if dark_mode else "0.25")
 
 
 def generate_and_count_digits(total_downloads: int) -> (str, int):

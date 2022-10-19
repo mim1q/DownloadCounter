@@ -7,6 +7,10 @@
         .text-foreground {
             fill: ${foreground-color};
         }
+        .text-shadow {
+            fill: #000000;
+            fill-opacity: ${shadow-alpha};
+        }
     </style>
     ${content}
 </svg>
