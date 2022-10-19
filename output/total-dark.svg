@@ -5,7 +5,7 @@
 >
     <style>
         .text-foreground {
-            fill: white;
+            fill: #F4301C;
         }
         .text-shadow {
             fill: #000000;
