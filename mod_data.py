@@ -1,3 +1,6 @@
+from downloads import get_curseforge_downloads, get_modrinth_downloads
+
+
 class ModData:
     name: str
     curseforge_id: str
@@ -15,11 +18,5 @@ class ModData:
         self.curseforge_id = curseforge_id
         self.modrinth_id = modrinth_id
 
-        self.curseforge_downloads = self.get_curseforge_downloads()
-        self.modrinth_downloads = self.get_modrinth_downloads()
-
-    def get_curseforge_downloads(self) -> int:
-        return 0
-
-    def get_modrinth_downloads(self) -> int:
-        return 0
+        self.curseforge_downloads = get_curseforge_downloads(curseforge_id)
+        self.modrinth_downloads = get_modrinth_downloads(modrinth_id)
