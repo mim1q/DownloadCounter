@@ -16,7 +16,8 @@ def main():
     for mod in mods:
         total_downloads += mod.curseforge_downloads + mod.modrinth_downloads
 
-    create_and_write_svg("output/output.svg", total_downloads)
+    create_and_write_svg("output/total.svg", total_downloads)
+    create_and_write_svg("output/total-dark.svg", total_downloads, dark_mode=True)
 
 
 if __name__ == "__main__":
