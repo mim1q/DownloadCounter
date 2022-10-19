@@ -1,5 +1,6 @@
 import json
 
+from create_svg import create_and_write_svg
 from mod_data import ModData
 
 
@@ -15,7 +16,7 @@ def main():
     for mod in mods:
         total_downloads += mod.curseforge_downloads + mod.modrinth_downloads
 
-    print(f"Total downloads: {total_downloads}")
+    create_and_write_svg("output/output.svg", total_downloads)
 
 
 if __name__ == "__main__":
