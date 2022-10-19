@@ -4,6 +4,10 @@ DIGIT_TEMPLATE_SUFFIX = ".svg.template"
 DIGIT_SCALE = 4
 DIGIT_WIDTH = 6.5 * DIGIT_SCALE
 DIGIT_HEIGHT = 9 * DIGIT_SCALE
+LIGHT_MODE_FOREGROUND_COLOR = "#F4301C"
+LIGHT_MODE_SHADOW_ALPHA = "0.25"
+DARK_MODE_FOREGROUND_COLOR = "#F4301C"
+DARK_MODE_SHADOW_ALPHA = "0.5"
 
 
 def create_and_write_svg(path: str, total_downloads: int, dark_mode: bool = False):
@@ -18,8 +22,8 @@ def generate_svg(total_downloads: int, dark_mode: bool) -> str:
             .replace("${content}", digits)\
             .replace("${width}", str(digit_count * DIGIT_WIDTH))\
             .replace("${height}", str(DIGIT_HEIGHT))\
-            .replace("${foreground-color}", "white" if dark_mode else "black")\
-            .replace("${shadow-alpha}", "0.5" if dark_mode else "0.25")
+            .replace("${foreground-color}", DARK_MODE_FOREGROUND_COLOR if dark_mode else LIGHT_MODE_FOREGROUND_COLOR)\
+            .replace("${shadow-alpha}", DARK_MODE_SHADOW_ALPHA if dark_mode else LIGHT_MODE_SHADOW_ALPHA)
 
 
 def generate_and_count_digits(total_downloads: int) -> (str, int):
