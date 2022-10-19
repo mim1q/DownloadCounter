@@ -1,0 +1,14 @@
+{
+  "mods": [
+    {
+      "name": "Mine Cells",
+      "curseforge_id": "618790",
+      "modrinth_id": "minecells"
+    },
+    {
+      "name": "Convenient Name Tags",
+      "curseforge_id": "662763",
+      "modrinth_id": "convenient-name-tags"
+    }
+  ]
+}
