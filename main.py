@@ -15,6 +15,15 @@ def main():
     total_downloads = 0
     for mod in mods:
         total_downloads += mod.curseforge_downloads + mod.modrinth_downloads
+        create_and_write_svg(
+            "output/" + mod.modrinth_id + ".svg",
+            mod.curseforge_downloads + mod.modrinth_downloads
+        )
+        create_and_write_svg(
+            "output/" + mod.modrinth_id + "-dark.svg",
+            mod.curseforge_downloads + mod.modrinth_downloads,
+            dark_mode=True
+        )
 
     create_and_write_svg("output/total.svg", total_downloads)
     create_and_write_svg("output/total-dark.svg", total_downloads, dark_mode=True)
