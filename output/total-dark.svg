@@ -1,5 +1,5 @@
 <svg version="1.1"
-     width="78.0"
+     width="104.0"
      height="36"
      xmlns="http://www.w3.org/2000/svg"
 >
@@ -12,12 +12,12 @@
             fill-opacity: 0.5;
         }
     </style>
-    <g class="digit" id="digit_9" transform="translate(0.0, 0), scale(4)">
-    <path id="digit_9_shadow" class="text-shadow"
-          d="m2.1167 1.0583v1.0583h3.175v-1.0583h-3.175zm3.175 1.0583v2.1167h-3.175v1.0583h3.175v1.0583h1.0583v-4.2333h-1.0583zm0 4.2333h-1.0583v1.0583h1.0583v-1.0583zm-1.0583 1.0583h-2.1167v1.0583h2.1167v-1.0583zm-2.1167-3.175v-2.1167h-1.0583v2.1167h1.0583z"
+    <g class="digit" id="digit_1" transform="translate(0.0, 0), scale(4)">
+    <path id="digit_1_shadow" class="text-shadow"
+          d="m2.1167 2.1167v1.0583h1.0583v4.2333h-1.0583v1.0583h3.175v-1.0583h-1.0583v-6.35h-1.0583v1.0583h-1.0583z"
           fill-opacity=".5" style="paint-order:stroke fill markers"/>
-    <path id="digit_9_fg" class="text-foreground"
-          d="m1.0583 0v1.0583h3.175v-1.0583h-3.175zm3.175 1.0583v2.1167h-3.175v1.0583h3.175v1.0583h1.0583v-4.2333h-1.0583zm0 4.2333h-1.0583v1.0583h1.0583v-1.0583zm-1.0583 1.0583h-2.1167v1.0583h2.1167v-1.0583zm-2.1167-3.175v-2.1167h-1.0583v2.1167h1.0583z"
+    <path id="digit_1_fg" class="text-foreground"
+          d="m1.0583 1.0583v1.0583h1.0583v4.2333h-1.0583v1.0583h3.175v-1.0583h-1.0583v-6.35h-1.0583v1.0583h-1.0583z"
           fill="#fff" style="paint-order:stroke fill markers"/>
 </g><g class="digit" id="digit_0" transform="translate(26.0, 0), scale(4)">
     <path id="digit_0_shadow" class="text-shadow"
@@ -26,12 +26,19 @@
     <path id="digit_0_fg" class="text-foreground"
           d="m1.0583 0v1.0583h3.175v-1.0583h-3.175zm3.175 1.0583v1.0583h-1.0583v1.0583h1.0583v3.175h1.0583v-5.2917h-1.0583zm0 5.2917h-3.175v1.0583h3.175v-1.0583zm-3.175 0v-1.0583h1.0583v-1.0583h-1.0583v-3.175h-1.0583v5.2917h1.0583zm1.0583-2.1167h1.0583v-1.0583h-1.0583v1.0583z"
           fill="#fff" style="paint-order:stroke fill markers"/>
-</g><g class="digit" id="digit_5" transform="translate(52.0, 0), scale(4)">
-    <path id="digit_5_shadow" class="text-shadow"
-          d="m1.0583 1.0583v3.175h4.2333v3.175h-3.175v-1.0583h-1.0583v1.0583h1.0583v1.0583h3.175v-1.0583h1.0583v-3.175h-1.0583v-1.0583h-3.175v-1.0583h4.2333v-1.0583h-5.2917z"
+</g><g class="digit" id="digit_0" transform="translate(52.0, 0), scale(4)">
+    <path id="digit_0_shadow" class="text-shadow"
+          d="m2.1167 1.0583v1.0583h3.175v-1.0583h-3.175zm3.175 1.0583v1.0583h-1.0583v1.0583h1.0583v3.175h1.0583v-5.2917h-1.0583zm0 5.2917h-3.175v1.0583h3.175v-1.0583zm-3.175 0v-1.0583h1.0583v-1.0583h-1.0583v-3.175h-1.0583v5.2917h1.0583zm1.0583-2.1167h1.0583v-1.0583h-1.0583v1.0583z"
           fill-opacity=".5" style="paint-order:stroke fill markers"/>
-    <path id="digit_5_fg" class="text-foreground"
-          d="m0 0v3.175h4.2333v3.175h-3.175v-1.0583h-1.0583v1.0583h1.0583v1.0583h3.175v-1.0583h1.0583v-3.175h-1.0583v-1.0583h-3.175v-1.0583h4.2333v-1.0583h-5.2917z"
+    <path id="digit_0_fg" class="text-foreground"
+          d="m1.0583 0v1.0583h3.175v-1.0583h-3.175zm3.175 1.0583v1.0583h-1.0583v1.0583h1.0583v3.175h1.0583v-5.2917h-1.0583zm0 5.2917h-3.175v1.0583h3.175v-1.0583zm-3.175 0v-1.0583h1.0583v-1.0583h-1.0583v-3.175h-1.0583v5.2917h1.0583zm1.0583-2.1167h1.0583v-1.0583h-1.0583v1.0583z"
+          fill="#fff" style="paint-order:stroke fill markers"/>
+</g><g class="digit" id="digit_6" transform="translate(78.0, 0), scale(4)">
+    <path id="digit_6_shadow" class="text-shadow"
+          d="m3.175 1.0583v1.0583h2.1167v-1.0583h-2.1167zm0 1.0583h-1.0583v1.0583h1.0583v-1.0583zm-1.0583 1.0583h-1.0583v4.2333h1.0583v-2.1167h3.175v-1.0583h-3.175v-1.0583zm3.175 2.1167v2.1167h1.0583v-2.1167h-1.0583zm0 2.1167h-3.175v1.0583h3.175v-1.0583z"
+          fill-opacity=".5" style="paint-order:stroke fill markers"/>
+    <path id="digit_6_fg" class="text-foreground"
+          d="m2.1167 0v1.0583h2.1167v-1.0583h-2.1167zm0 1.0583h-1.0583v1.0583h1.0583v-1.0583zm-1.0583 1.0583h-1.0583v4.2333h1.0583v-2.1167h3.175v-1.0583h-3.175v-1.0583zm3.175 2.1167v2.1167h1.0583v-2.1167h-1.0583zm0 2.1167h-3.175v1.0583h3.175v-1.0583z"
           fill="#fff" style="paint-order:stroke fill markers"/>
 </g>
 </svg>
