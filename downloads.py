@@ -3,7 +3,7 @@ from urllib.request import urlopen
 import json
 
 CURSEFORGE_PREFIX = "https://api.cfwidget.com/"
-MODRINTH_PREFIX = "https://api.modrinth.com/api/v1/mod/"
+MODRINTH_PREFIX = "https://api.modrinth.com/v2/project/"
 
 
 def get_modrinth_downloads(mod_id: str) -> int:
