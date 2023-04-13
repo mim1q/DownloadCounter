@@ -1,5 +1,6 @@
 import json
 
+import json_output
 from create_svg import create_and_write_svg
 from mod_data import ModData
 
@@ -27,6 +28,8 @@ def main():
 
     create_and_write_svg("output/total.svg", total_downloads)
     create_and_write_svg("output/total-dark.svg", total_downloads, dark_mode=True)
+    with open("output/mods.json", "w") as output:
+        output.write(json_output.create_json_output(mods))
 
 
 if __name__ == "__main__":
