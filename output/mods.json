@@ -1,29 +1,29 @@
 {
-  "total_downloads": 10603345,
+  "total_downloads": 10636265,
   "mods": [
     {
       "name": "Mine Cells",
       "curseforge_id": "618790",
       "modrinth_id": "minecells",
-      "curseforge_downloads": 6219549,
-      "modrinth_downloads": 391792,
-      "downloads": 6611341
+      "curseforge_downloads": 6235172,
+      "modrinth_downloads": 393565,
+      "downloads": 6628737
     },
     {
       "name": "Convenient Name Tags",
       "curseforge_id": "662763",
       "modrinth_id": "convenient-name-tags",
-      "curseforge_downloads": 349595,
-      "modrinth_downloads": 41824,
-      "downloads": 391419
+      "curseforge_downloads": 349700,
+      "modrinth_downloads": 41892,
+      "downloads": 391592
     },
     {
       "name": "Convenient Decor",
       "curseforge_id": "794452",
       "modrinth_id": "convenient-decor",
-      "curseforge_downloads": 3351643,
-      "modrinth_downloads": 248942,
-      "downloads": 3600585
+      "curseforge_downloads": 3365675,
+      "modrinth_downloads": 250261,
+      "downloads": 3615936
     }
   ]
 }
