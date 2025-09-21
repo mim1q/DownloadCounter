@@ -33,40 +33,40 @@
     <path id="digit_2_fg" class="text-foreground"
           d="m0 1.0583v1.0583h1.0583v-1.0583h3.175v2.1167h-2.1167v1.0583h-1.0583v1.0583h-1.0583v2.1167h5.2917v-2.1167h-1.0583v1.0583h-3.175v-1.0583h1.0583v-1.0583h2.1167v-1.0583h1.0583v-2.1167h-1.0583v-1.0583h-3.175v1.0583h-1.0583z"
           fill="#fff" style="paint-order:stroke fill markers"/>
-</g><g class="digit" id="digit_2" transform="translate(78.0, 0), scale(4)">
-    <path id="digit_2_shadow" class="text-shadow"
-          d="m1.0583 2.1167v1.0583h1.0583v-1.0583h3.175v2.1167h-2.1167v1.0583h-1.0583v1.0583h-1.0583v2.1167h5.2917v-2.1167h-1.0583v1.0583h-3.175v-1.0583h1.0583v-1.0583h2.1167v-1.0583h1.0583v-2.1167h-1.0583v-1.0583h-3.175v1.0583h-1.0583z"
+</g><g class="digit" id="digit_4" transform="translate(78.0, 0), scale(4)">
+    <path id="digit_4_shadow" class="text-shadow"
+          d="m4.2333 1.0583v1.0583h1.0583v3.175h-3.175v-1.0583h-1.0583v2.1167h4.2333v2.1167h1.0583v-7.4083h-2.1167zm-2.1167 3.175h1.0583v-1.0583h-1.0583v1.0583zm1.0583-1.0583h1.0583v-1.0583h-1.0583v1.0583z"
           fill-opacity=".5" style="paint-order:stroke fill markers"/>
-    <path id="digit_2_fg" class="text-foreground"
-          d="m0 1.0583v1.0583h1.0583v-1.0583h3.175v2.1167h-2.1167v1.0583h-1.0583v1.0583h-1.0583v2.1167h5.2917v-2.1167h-1.0583v1.0583h-3.175v-1.0583h1.0583v-1.0583h2.1167v-1.0583h1.0583v-2.1167h-1.0583v-1.0583h-3.175v1.0583h-1.0583z"
+    <path id="digit_4_fg" class="text-foreground"
+          d="m3.175 0v1.0583h1.0583v3.175h-3.175v-1.0583h-1.0583v2.1167h4.2333v2.1167h1.0583v-7.4083h-2.1167zm-2.1167 3.175h1.0583v-1.0583h-1.0583v1.0583zm1.0583-1.0583h1.0583v-1.0583h-1.0583v1.0583z"
           fill="#fff" style="paint-order:stroke fill markers"/>
-</g><g class="digit" id="digit_8" transform="translate(104.0, 0), scale(4)">
-    <path id="digit_8_shadow" class="text-shadow"
-          d="m2.1167 1.0583v1.0583h3.175v-1.0583h-3.175zm3.175 1.0583v2.1167h1.0583v-2.1167h-1.0583zm0 2.1167h-3.175v1.0583h3.175v-1.0583zm0 1.0583v2.1167h1.0583v-2.1167h-1.0583zm0 2.1167h-3.175v1.0583h3.175v-1.0583zm-3.175 0v-2.1167h-1.0583v2.1167h1.0583zm0-3.175v-2.1167h-1.0583v2.1167h1.0583z"
+</g><g class="digit" id="digit_7" transform="translate(104.0, 0), scale(4)">
+    <path id="digit_7_shadow" class="text-shadow"
+          d="m1.0583 1.0583 2e-6 2.1167h1.0583v-1.0583h3.175v1.0583l2e-7 1.0583h-1.0583v1.0583h-1.0583l4e-7 3.175 1.0583 1e-7v-3.175h1.0583v-1.0583h1.0583l5e-7 -1.0583v-2.1167z"
           fill-opacity=".5" style="paint-order:stroke fill markers"/>
-    <path id="digit_8_fg" class="text-foreground"
-          d="m1.0583 0v1.0583h3.175v-1.0583h-3.175zm3.175 1.0583v2.1167h1.0583v-2.1167h-1.0583zm0 2.1167h-3.175v1.0583h3.175v-1.0583zm0 1.0583v2.1167h1.0583v-2.1167h-1.0583zm0 2.1167h-3.175v1.0583h3.175v-1.0583zm-3.175 0v-2.1167h-1.0583v2.1167h1.0583zm0-3.175v-2.1167h-1.0583v2.1167h1.0583z"
+    <path id="digit_7_fg" class="text-foreground"
+          d="m0 0 2e-6 2.1167h1.0583v-1.0583h3.175v1.0583l2e-7 1.0583h-1.0583v1.0583h-1.0583l4e-7 3.175 1.0583 1e-7v-3.175h1.0583v-1.0583h1.0583l5e-7 -1.0583v-2.1167z"
           fill="#fff" style="paint-order:stroke fill markers"/>
-</g><g class="digit" id="digit_1" transform="translate(130.0, 0), scale(4)">
+</g><g class="digit" id="digit_4" transform="translate(130.0, 0), scale(4)">
+    <path id="digit_4_shadow" class="text-shadow"
+          d="m4.2333 1.0583v1.0583h1.0583v3.175h-3.175v-1.0583h-1.0583v2.1167h4.2333v2.1167h1.0583v-7.4083h-2.1167zm-2.1167 3.175h1.0583v-1.0583h-1.0583v1.0583zm1.0583-1.0583h1.0583v-1.0583h-1.0583v1.0583z"
+          fill-opacity=".5" style="paint-order:stroke fill markers"/>
+    <path id="digit_4_fg" class="text-foreground"
+          d="m3.175 0v1.0583h1.0583v3.175h-3.175v-1.0583h-1.0583v2.1167h4.2333v2.1167h1.0583v-7.4083h-2.1167zm-2.1167 3.175h1.0583v-1.0583h-1.0583v1.0583zm1.0583-1.0583h1.0583v-1.0583h-1.0583v1.0583z"
+          fill="#fff" style="paint-order:stroke fill markers"/>
+</g><g class="digit" id="digit_1" transform="translate(156.0, 0), scale(4)">
     <path id="digit_1_shadow" class="text-shadow"
           d="m2.1167 2.1167v1.0583h1.0583v4.2333h-1.0583v1.0583h3.175v-1.0583h-1.0583v-6.35h-1.0583v1.0583h-1.0583z"
           fill-opacity=".5" style="paint-order:stroke fill markers"/>
     <path id="digit_1_fg" class="text-foreground"
           d="m1.0583 1.0583v1.0583h1.0583v4.2333h-1.0583v1.0583h3.175v-1.0583h-1.0583v-6.35h-1.0583v1.0583h-1.0583z"
           fill="#fff" style="paint-order:stroke fill markers"/>
-</g><g class="digit" id="digit_9" transform="translate(156.0, 0), scale(4)">
-    <path id="digit_9_shadow" class="text-shadow"
-          d="m2.1167 1.0583v1.0583h3.175v-1.0583h-3.175zm3.175 1.0583v2.1167h-3.175v1.0583h3.175v1.0583h1.0583v-4.2333h-1.0583zm0 4.2333h-1.0583v1.0583h1.0583v-1.0583zm-1.0583 1.0583h-2.1167v1.0583h2.1167v-1.0583zm-2.1167-3.175v-2.1167h-1.0583v2.1167h1.0583z"
+</g><g class="digit" id="digit_3" transform="translate(182.0, 0), scale(4)">
+    <path id="digit_3_shadow" class="text-shadow"
+          d="m1.0583 2.1167v1.0583h1.0583v-1.0583h3.175v2.1167h-2.1167v1.0583h2.1167v2.1167h-3.175v-1.0583h-1.0583v1.0583h1.0583v1.0583h3.175v-1.0583h1.0583v-2.1167h-1.0583v-1.0583h1.0583v-2.1167h-1.0583v-1.0583h-3.175v1.0583h-1.0583z"
           fill-opacity=".5" style="paint-order:stroke fill markers"/>
-    <path id="digit_9_fg" class="text-foreground"
-          d="m1.0583 0v1.0583h3.175v-1.0583h-3.175zm3.175 1.0583v2.1167h-3.175v1.0583h3.175v1.0583h1.0583v-4.2333h-1.0583zm0 4.2333h-1.0583v1.0583h1.0583v-1.0583zm-1.0583 1.0583h-2.1167v1.0583h2.1167v-1.0583zm-2.1167-3.175v-2.1167h-1.0583v2.1167h1.0583z"
-          fill="#fff" style="paint-order:stroke fill markers"/>
-</g><g class="digit" id="digit_8" transform="translate(182.0, 0), scale(4)">
-    <path id="digit_8_shadow" class="text-shadow"
-          d="m2.1167 1.0583v1.0583h3.175v-1.0583h-3.175zm3.175 1.0583v2.1167h1.0583v-2.1167h-1.0583zm0 2.1167h-3.175v1.0583h3.175v-1.0583zm0 1.0583v2.1167h1.0583v-2.1167h-1.0583zm0 2.1167h-3.175v1.0583h3.175v-1.0583zm-3.175 0v-2.1167h-1.0583v2.1167h1.0583zm0-3.175v-2.1167h-1.0583v2.1167h1.0583z"
-          fill-opacity=".5" style="paint-order:stroke fill markers"/>
-    <path id="digit_8_fg" class="text-foreground"
-          d="m1.0583 0v1.0583h3.175v-1.0583h-3.175zm3.175 1.0583v2.1167h1.0583v-2.1167h-1.0583zm0 2.1167h-3.175v1.0583h3.175v-1.0583zm0 1.0583v2.1167h1.0583v-2.1167h-1.0583zm0 2.1167h-3.175v1.0583h3.175v-1.0583zm-3.175 0v-2.1167h-1.0583v2.1167h1.0583zm0-3.175v-2.1167h-1.0583v2.1167h1.0583z"
+    <path id="digit_3_fg" class="text-foreground"
+          d="m0 1.0583v1.0583h1.0583v-1.0583h3.175v2.1167h-2.1167v1.0583h2.1167v2.1167h-3.175v-1.0583h-1.0583v1.0583h1.0583v1.0583h3.175v-1.0583h1.0583v-2.1167h-1.0583v-1.0583h1.0583v-2.1167h-1.0583v-1.0583h-3.175v1.0583h-1.0583z"
           fill="#fff" style="paint-order:stroke fill markers"/>
 </g>
 </svg>
