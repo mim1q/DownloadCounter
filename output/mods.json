@@ -1,37 +1,37 @@
 {
-  "total_downloads": 44367845,
+  "total_downloads": 44428924,
   "mods": [
     {
       "name": "Mine Cells",
       "curseforge_id": "618790",
       "modrinth_id": "minecells",
-      "curseforge_downloads": 14718168,
-      "modrinth_downloads": 4565047,
-      "downloads": 19283215
+      "curseforge_downloads": 14733638,
+      "modrinth_downloads": 4574538,
+      "downloads": 19308176
     },
     {
       "name": "Convenient Name Tags",
       "curseforge_id": "662763",
       "modrinth_id": "convenient-name-tags",
-      "curseforge_downloads": 1802130,
-      "modrinth_downloads": 593987,
-      "downloads": 2396117
+      "curseforge_downloads": 1806093,
+      "modrinth_downloads": 596155,
+      "downloads": 2402248
     },
     {
       "name": "Convenient Decor",
       "curseforge_id": "794452",
       "modrinth_id": "convenient-decor",
-      "curseforge_downloads": 10734226,
-      "modrinth_downloads": 3269283,
-      "downloads": 14003509
+      "curseforge_downloads": 10744079,
+      "modrinth_downloads": 3275467,
+      "downloads": 14019546
     },
     {
       "name": "Derelict",
       "curseforge_id": "928990",
       "modrinth_id": "derelict",
-      "curseforge_downloads": 7398960,
-      "modrinth_downloads": 1286044,
-      "downloads": 8685004
+      "curseforge_downloads": 7408575,
+      "modrinth_downloads": 1290379,
+      "downloads": 8698954
     }
   ]
 }
